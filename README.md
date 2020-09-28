@@ -1,6 +1,7 @@
 # karabiner-elements-settings
 
-karabiner-elements settings are stored here.  Make sure to clone into 'karabiner', not 'karabiner-elements-settings'.
+karabiner-elements settings are stored here.
+**Make sure to clone into 'karabiner', not 'karabiner-elements-settings'.**
 ```
 cd ~/.config/karabiner
 ```
